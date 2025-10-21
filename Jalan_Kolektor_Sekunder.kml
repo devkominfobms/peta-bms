@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Jalan_Kolektor_Sekunder" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Jalan_Kolektor_Sekunder</name>
+	<Snippet maxLines="0"></Snippet>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffa80051</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Jalan_Kolektor_Sekunder</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Letjend. DI Panjaitan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2487253115875,-7.427695164627495,0 109.2487249540575,-7.427839630422511,0 109.2487239623175,-7.428969418952476,0 109.2487230523225,-7.42902301761751,0 109.24872207855,-7.4290803693425,0 109.2487194195375,-7.429237074959985,0 109.24871505552,-7.429459539402501,0 109.2487150546225,-7.429666732752481,0 109.2487200537475,-7.430298292372527,0 109.24872020736,-7.430317644007516,0 109.248723857215,-7.43077892217002,0 109.2487263347675,-7.430902893864982,0 109.2487267138575,-7.430921764079984,0 109.24873119645,-7.43128214569498,0 109.2487315872175,-7.431313592740025,0 109.24873602669,-7.431670454105017,0 109.248736179405,-7.431682753732504,0 109.2487496226925,-7.432081544855009,0 109.24875029553,-7.432101515695024,0 109.2487631504225,-7.432744574147478,0 109.248763533105,-7.432763718902493,0 109.2487732681475,-7.433250756017515,0 109.24878564334,-7.433642945960003,0 109.2488140426775,-7.434543053867515,0 109.2488156183225,-7.434592986715018,0 109.2488306453425,-7.435551377312493,0 109.248830669595,-7.435552890047519,0 109.2488322982425,-7.435656794484998,0 109.24885574966,-7.436489390409973,0 109.24887122404,-7.437038772947517,0 109.248897370405,-7.437690680540014,0 109.248897930055,-7.437736502255006,0 109.248905255815,-7.438337301315017,0 109.248907512385,-7.438821476712519,0 109.248907516875,-7.438822300105016,0 109.24890772798,-7.438867845647507,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Kom. Bb Suprapto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2548534414875,-7.422942023527526,0 109.2548010068225,-7.422952911435003,0 109.2545579864875,-7.42298063498248,0 109.2542052971275,-7.423000106662528,0 109.2540062565125,-7.423007553405,0 109.25399850405,-7.423007842449977,0 109.2537638137925,-7.423016622257478,0 109.2533849627975,-7.423046419262505,0 109.2530656332725,-7.423063973410025,0 109.2528007461475,-7.423078535912509,0 109.2527821501225,-7.423079558962513,0 109.25188015444,-7.423129144054998,0 109.2517793437025,-7.423137564612489,0 109.2512243384675,-7.423183920992528,0 109.251223902785,-7.423183940140007,0 109.250134098125,-7.423231988844975,0 109.2497308228325,-7.423250053612492,0 109.24972037363,-7.423250521372495,0 109.24872047326,-7.423295311275012,0 109.248493507615,-7.423305477040003,0 109.24844975517,-7.423307334397521,0 109.248449554845,-7.423307342602528,0 109.2480397326325,-7.423324726252475,0 109.24784971829,-7.4233327857375,0 109.247093488635,-7.423364862287485,0 109.247091648885,-7.423364940702527,0 109.24706888917,-7.423365905397475,0 109.2462865401,-7.423395789960012,0 109.2462672838125,-7.423396526702504,0 109.2456685441,-7.423424382489998,0 109.24560546979,-7.423427316692481,0 109.2451441265025,-7.423429895289985,0 109.2448856183125,-7.423411273400006,0 109.2446806506125,-7.423382907912526,0 109.2446730760175,-7.423381859329992,0 109.24465654612,-7.423379572512489,0 109.2444216438575,-7.423336111105016,0 109.24424234911,-7.423307865070001,0 109.2439511602125,-7.42322408893,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Karangsawah - Danaraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.3000056350875,-7.517258259034975,0 109.30113475362,-7.517254911994996,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.30113475362,-7.517254911994996,0 109.3011842472,-7.517281562472475,0 109.3015545552175,-7.518302405002487,0 109.3024223277825,-7.520957085507519,0 109.3024453300425,-7.521027450577492,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2992457546825,-7.517260511677478,0 109.3000056350875,-7.517258259034975,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2980449038775,-7.517264072127489,0 109.2992457546825,-7.517260511677478,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.297738812825,-7.517268266417489,0 109.2980449038775,-7.517264072127489,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.296821111,-7.517280843815001,0 109.297738812825,-7.517268266417489,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.29609271834,-7.517290827484999,0 109.2967245412075,-7.517282168040025,0 109.296821111,-7.517280843815001,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.3024453300425,-7.521027450577492,0 109.302460445995,-7.521073695777489,0 109.302753991175,-7.521932946087475,0 109.3047868894425,-7.5278834616675,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.3047868894425,-7.5278834616675,0 109.304808782285,-7.527947544912478,0 109.305025587085,-7.528582158765005,0 109.3050261449375,-7.528583794022494,0 109.3050561846025,-7.528645727727508,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Jend. Sutoyo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.22680483223,-7.424365540747488,0 109.2267963224875,-7.424400715707519,0 109.2267497861625,-7.424593075199993,0 109.22665999955,-7.425000414684973,0 109.22656861753,-7.425440011774981,0 109.22655029639,-7.425528475049987,0 109.2264767809625,-7.425883437092523,0 109.2264745747,-7.425894088912514,0 109.2264262884575,-7.42612725186001,0 109.2263641412075,-7.426421326042487,0 109.22630190952,-7.426715802527497,0 109.2263009528125,-7.426720327872488,0 109.2262869453825,-7.42678661054748,0 109.226279346535,-7.426822570772516,0 109.2262235656475,-7.427086518967485,0 109.2261409062675,-7.427477664992523,0 109.2261325483425,-7.427516547647485,0 109.2261307400325,-7.427524958257492,0 109.226094405875,-7.427693993854973,0 109.2260917944725,-7.42770614565751,0 109.22605865113,-7.427860329619988,0 109.22605645385,-7.427870555664982,0 109.2259447582275,-7.428390177762481,0 109.2259277001175,-7.428469545300004,0 109.22590576775,-7.42857158070001,0 109.22588184292,-7.42868288751248,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Hos. Notosuwiryo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.25094334904,-7.447680814732507,0 109.2508742057125,-7.447506471917506,0 109.2507984606675,-7.447387037624993,0 109.250646292345,-7.447157608682518,0 109.2503283758725,-7.446730104435005,0 109.2502207406325,-7.446585366324997,0 109.2500485470675,-7.446370816547528,0 109.2500368294425,-7.446303786917497,0 109.25001321992,-7.445164624855012,0 109.250008664565,-7.444944858129986,0 109.24999547999,-7.444859783139975,0 109.2499931964725,-7.444845050330003,0 109.2498291128975,-7.443786365530002,0 109.2497819827875,-7.443482277024998,0 109.24965379679,-7.442565525532473,0 109.2496279837,-7.442426672005013,0 109.2496088693475,-7.442357477322503,0 109.2496058860425,-7.442346675569979,0 109.249594905035,-7.442306927204982,0 109.24954067464,-7.442081837597526,0 109.2493859425275,-7.441451098544973,0 109.2493371262775,-7.44125210730499,0 109.2492326962275,-7.440808768092495,0 109.249170956815,-7.440546657437494,0 109.249022291925,-7.439915514765005,0 109.2490012488875,-7.439826176035012,0 109.2489802624475,-7.439678968137514,0 109.24896284142,-7.439538950165002,0 109.248949231045,-7.439345121705003,0 109.24890772798,-7.438867845647507,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Suwatio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2545737725825,-7.438302372377507,0 109.254574358285,-7.438306961667479,0 109.25457950653,-7.438347272285,0 109.25473122659,-7.439535423160009,0 109.2547371815225,-7.439609012487495,0 109.25474265406,-7.439676614672521,0 109.2547492108625,-7.439836922102473,0 109.2547572166475,-7.440236467237526,0 109.25475673515,-7.440318959924979,0 109.2547566489125,-7.440333779212494,0 109.254755277185,-7.440568747779992,0 109.2547501738575,-7.441443078857503,0 109.2547497893775,-7.441509135737476,0 109.254748526345,-7.441725670112476,0 109.2547472399575,-7.441946255017513,0 109.2547445477075,-7.442408096744997,0 109.2547440760925,-7.44248898224248,0 109.2547439368525,-7.442512904584987,0 109.254742341445,-7.442786590480011,0 109.2547359337625,-7.443061921519984,0 109.2547357891325,-7.443068179542479,0 109.2547192412675,-7.443779298685001,0 109.2546945645475,-7.443958622412481,0 109.2544596452175,-7.445180157372478,0 109.25432748148,-7.445824895884983,0 109.254272110225,-7.446095012967476,0 109.2542616870725,-7.446145862600019,0 109.254099877135,-7.446992692852518,0 109.2540977086,-7.447004047302528,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Senopati</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.269846213985,-7.413292373859974,0 109.2694964845725,-7.413560276790008,0 109.26920320709,-7.413750334869973,0 109.269015118735,-7.413853066287516,0 109.2689693801125,-7.413878047524975,0 109.26858727542,-7.414059502077521,0 109.268147454865,-7.414195647065014,0 109.267918087125,-7.41425669877998,0 109.2677906646975,-7.414290616505014,0 109.2673574988625,-7.41438836783999,0 109.2672497693,-7.414412678939983,0 109.2672025439675,-7.414422502582511,0 109.26639585774,-7.414590302357511,0 109.26620360749,-7.414635388647525,0 109.26606674287,-7.414667486465021,0 109.2659904139175,-7.414702327864973,0 109.2659651928175,-7.4147138401525,0 109.265962645195,-7.41471459055748,0 109.2659241973025,-7.414725909547485,0 109.26591459521,-7.414728737015025,0 109.2656831415825,-7.414796877074991,0 109.2651936181425,-7.41494099317498,0 109.2649076996575,-7.415030261332503,0 109.2648121287925,-7.415073174862528,0 109.264805868435,-7.415075986832504,0 109.2647870145925,-7.415084451917494,0 109.2646774452825,-7.41513365318002,0 109.2644366213275,-7.415268287647507,0 109.2643491712325,-7.41532658315748,0 109.2642655273,-7.415382339329994,0 109.2640682761275,-7.415544567487473,0 109.264059394485,-7.415551873692493,0 109.2639232628875,-7.41563129732998,0 109.263755872615,-7.415689740594985,0 109.2635234694675,-7.415755839295002,0 109.263507319555,-7.415760432002514,0 109.2634664974125,-7.415772042792526,0 109.2632015536925,-7.415840534050005,0 109.2630376569675,-7.415895514347483,0 109.2629970153875,-7.415929361987481,0 109.2629646949025,-7.415963945447514,0 109.262950520385,-7.415984539245017,0 109.2629395411775,-7.416000492005026,0 109.2629205561825,-7.416040445942485,0 109.26290720542,-7.416084259512503,0 109.26289814591,-7.416135453154994,0 109.262896746335,-7.416151348477513,0 109.262892710205,-7.416197184420014,0 109.262889878715,-7.416280807900023,0 109.2629713873525,-7.416809526420025,0 109.26301224902,-7.417046074740028,0 109.26304628349,-7.417247835377509,0 109.2630422033425,-7.417400775725014,0 109.2629895405075,-7.417508334117485,0 109.26297234765,-7.417524148340021,0 109.2629542942075,-7.417540751267495,0 109.2628916771425,-7.417598337692482,0 109.2627208292525,-7.417649814162473,0 109.26253842813,-7.417680745090025,0 109.262480370015,-7.417690591599978,0 109.2623060555275,-7.417738578630008,0 109.2620923633875,-7.417826203364996,0 109.262079322545,-7.417831551064977,0 109.2619638620825,-7.417885791222488,0 109.26165366573,-7.418031512162487,0 109.2614058465925,-7.418173071697482,0 109.2613891091825,-7.418191305857476,0 109.2613759794075,-7.418205609249981,0 109.2613569189525,-7.418226374567496,0 109.2613097591975,-7.418277749900028,0 109.26123096976,-7.418363583967505,0 109.261125892025,-7.418516132617526,0 109.261048635115,-7.418679216257487,0 109.2610280592025,-7.418753383914975,0 109.26100498328,-7.418836555614973,0 109.2609956479875,-7.418870204702499,0 109.2610016298675,-7.419120525029996,0 109.2610028803225,-7.419173431379988,0 109.261007705175,-7.419377502559996,0 109.261007768955,-7.419380223377517,0 109.261010589665,-7.419499476099986,0 109.2610075812075,-7.419535241530014,0 109.2610352232675,-7.419790689292483,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. S. Parman</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2437051448925,-7.427806302539977,0 109.24370574407,-7.42783907694752,0 109.2437281229,-7.429061852077495,0 109.2437261933175,-7.429135890137502,0 109.2437186860975,-7.429423891722478,0 109.2437240795825,-7.429790934830011,0 109.2437242152275,-7.429800159740012,0 109.24372874633,-7.430108549204988,0 109.24372904457,-7.430128857334978,0 109.24373102356,-7.430263459800017,0 109.2437409670125,-7.430498398499992,0 109.2437547148275,-7.430823203112483,0 109.24375487922,-7.430827115752493,0 109.243755383175,-7.430839026917511,0 109.2437572885025,-7.430884080182523,0 109.24381666265,-7.431846012639994,0 109.2438544395025,-7.432403789279987,0 109.24385484644,-7.432409790932525,0 109.2438758769,-7.432720313125003,0 109.243883115525,-7.432843434614995,0 109.2439179405125,-7.433435792727494,0 109.2439187723525,-7.433449942504977,0 109.2439199159075,-7.4334694073425,0 109.2439638390325,-7.434247833689994,0 109.244015308905,-7.435098637235001,0 109.24406338674,-7.435945123025022,0 109.2440647414,-7.435968989397509,0 109.244086675565,-7.436299935515024,0 109.2440876942525,-7.43631529447498,0 109.2440992016725,-7.436488939962487,0 109.2441172128925,-7.436760737435009,0 109.2441220359475,-7.436833505657488,0 109.2441698927975,-7.437608036967503,0 109.2442056682025,-7.438244989387498,0 109.2442071881525,-7.438269080195028,0 109.24425153708,-7.438971712552473,0 109.24428515114,-7.439463830777527,0 109.2442973143275,-7.439641892617487,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Martadirja I</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2610352232675,-7.419790689292483,0 109.2607126894525,-7.419978040112483,0 109.2599659109725,-7.420360987425,0 109.25960425463,-7.42054906062998,0 109.2595721326725,-7.420565764879995,0 109.25894203367,-7.420893438177472,0 109.258891076735,-7.420919937957478,0 109.2583004371325,-7.421218898760002,0 109.2578756193425,-7.421433924389988,0 109.2578227463025,-7.42146233990502,0 109.257194095385,-7.421800195994989,0 109.2570729252275,-7.421865315394996,0 109.2563750088125,-7.422220635632527,0 109.256371627555,-7.422222347094986,0 109.2563133583325,-7.422251860477502,0 109.256295904965,-7.422260699537503,0 109.256049789935,-7.422385349100011,0 109.255809699005,-7.42250694961001,0 109.25565264295,-7.422593241297477,0 109.255590408565,-7.422622782054987,0 109.25558839544,-7.422623737629976,0 109.255207656185,-7.422804474455006,0 109.25500173178,-7.422902223075027,0 109.2548872729375,-7.422934998039977,0 109.2548534414875,-7.422942023527526,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Eks Stasiun Timur - Sawangan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Analisis RTRW, 2019; Survei Lapangan, 2018</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2271739993875,-7.429979590972493,0 109.2270069109475,-7.430003925705023,0 109.22700221186,-7.430005054542505,0 109.2268077634325,-7.430045119137503,0 109.2266121130575,-7.430078826504997,0 109.22641546196,-7.430106139257475,0 109.22621802304,-7.430127029130006,0 109.2260874053025,-7.430132195520002,0 109.2259566986325,-7.430130505909972,0 109.22582625966,-7.43012196395,0 109.22569644951,-7.430106594257495,0 109.2255665162875,-7.430089548632509,0 109.225464029295,-7.430067848152476,0 109.2253836049225,-7.430042646272511,0 109.2253060731275,-7.430004961535018,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Stasiun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.22230139086,-7.420353918212527,0 109.2222905149575,-7.420423391267491,0 109.2222638852975,-7.420490268427499,0 109.2222562612975,-7.420597888647479,0 109.2222652911625,-7.420736675277509,0 109.22227283252,-7.42078921527002,0 109.2222710412775,-7.421072285050002,0 109.222290078375,-7.421196017007503,0 109.2222900774775,-7.421353062727519,0 109.2223076548125,-7.421526288497489,0 109.22230941551,-7.421684181399996,0 109.22232254888,-7.421770339804993,0 109.2223281193325,-7.421806882272506,0 109.2223327663175,-7.421837379464989,0 109.2224134637775,-7.422437244637479,0 109.222416114705,-7.422456952449977,0 109.2224351598875,-7.422598526137507,0 109.2225947590725,-7.423681917760007,0 109.222599162615,-7.423711812372517,0 109.22267228997,-7.423711911759994,0 109.2230978982775,-7.423744901972499,0 109.2233381167675,-7.42376411290752,0 109.2235318115075,-7.423781992597526,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Eks Stasiun Timur - Sawangan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Perda Kabupaten Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.232359785775,-7.428793924452521,0 109.23188603226,-7.428997659872493,0 109.2318578107875,-7.429004242309986,0 109.2313918654275,-7.429112912242488,0 109.231342091575,-7.429123689057519,0 109.2304371790625,-7.42931962490252,0 109.2284031147825,-7.429749292805012,0 109.22735497039,-7.429953232905007,0 109.2271739993875,-7.429979590972493,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Pemotongan Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2974960009,-7.510489004462499,0 109.2961290902275,-7.51037618808499,0 109.2961290480075,-7.51037618352501,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2990530130525,-7.511346501599973,0 109.29875338987,-7.510709489132523,0 109.29861062152,-7.510580998385024,0 109.2974960009,-7.510489004462499,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2997440995775,-7.512841577684981,0 109.2993197013,-7.511913496977513,0 109.29915160585,-7.511556117612486,0 109.2990530130525,-7.511346501599973,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.300476663115,-7.51434948051002,0 109.3004731956175,-7.514342347802483,0 109.29975276293,-7.512860522482526,0 109.2997440995775,-7.512841577684981,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.3009360094475,-7.51529428956502,0 109.300476663115,-7.51434948051002,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.30179172303,-7.51720471640499,0 109.301768290475,-7.517134559872488,0 109.3012403236325,-7.515934226059983,0 109.301175680865,-7.515787260385025,0 109.3009360094475,-7.51529428956502,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.30113475362,-7.517254911994996,0 109.30150904387,-7.51724497757499,0 109.301758772825,-7.517234495952493,0 109.30179172303,-7.51720471640499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Kol. Sugiono</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Perda Kabupaten Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.23488416491,-7.426851529157488,0 109.2347595560025,-7.426850843469992,0 109.2346677347075,-7.426855499207477,0 109.234576513485,-7.426866958920016,0 109.2344864016825,-7.426885161517475,0 109.2343978951675,-7.426910003052513,0 109.2343114853225,-7.426941348579987,0 109.23422765005,-7.426979022120008,0 109.234146854675,-7.427022816689998,0 109.23405419435,-7.427094624109997,0 109.2339647580825,-7.427170398860028,0 109.2339268168375,-7.427205497445016,0 109.2339174240525,-7.427214186155027,0 109.2338787174425,-7.427249992312511,0 109.2337962350325,-7.427333254934979,0 109.2335065148775,-7.427673243602499,0 109.2334061532975,-7.42779101863499,0 109.23314283463,-7.42810174007252,0 109.2329360828775,-7.428326188075005,0 109.232808384665,-7.428464794717513,0 109.23276697682,-7.428509740147491,0 109.232691641405,-7.428570450042514,0 109.232670201315,-7.428587728122523,0 109.2325699349575,-7.428661189834997,0 109.2324663888475,-7.428729969360006,0 109.232359785775,-7.428793924452521,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Gerilya-Sudirman</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Perda Kabupaten Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.233435300935,-7.425831624135015,0 109.233426443545,-7.425866769119978,0 109.2333875105625,-7.4260212715875,0 109.2331772742425,-7.426744734462488,0 109.2331756438,-7.426748188424995,0 109.233173007245,-7.426751989787476,0 109.233080707145,-7.426865013102486,0 109.2330724336625,-7.426873297869975,0 109.2329829228325,-7.426947882659989,0 109.232973184195,-7.426954559895023,0 109.232850918095,-7.427021117062508,0 109.2328444547175,-7.427024204475004,0 109.232842013995,-7.427025215679977,0 109.2328361228425,-7.427027711322524,0 109.23283009964,-7.42703031456,0 109.23282394618,-7.427033026305025,0 109.232817667855,-7.427035842907515,0 109.23281126646,-7.427038763457517,0 109.2328047455875,-7.427041788867483,0 109.2327981070375,-7.427044914574993,0 109.2327913562,-7.427048141497495,0 109.23278449397,-7.427051465982515,0 109.2327775257375,-7.427054887119995,0 109.2327704550975,-7.427058403997478,0 109.232763284745,-7.427062013882505,0 109.23275602007,-7.427065714947504,0 109.23274866107,-7.427069505372515,0 109.232741214935,-7.427073385152482,0 109.232733686155,-7.427077348822479,0 109.2327260756275,-7.42708139455499,0 109.232718387845,-7.427085524175027,0 109.2327106290975,-7.427089732212494,0 109.2327028002775,-7.427094018665001,0 109.2326949067825,-7.427098378972516,0 109.2326869513025,-7.427102813139982,0 109.23267893833,-7.427107316604975,0 109.2326708741525,-7.427111889369996,0 109.23266276057,-7.427116528695023,0 109.2326546002725,-7.427121232759987,0 109.232646398655,-7.427125997917527,0 109.2326381593075,-7.427130824164976,0 109.2326298858225,-7.427135707859976,0 109.232621582695,-7.427140645349994,0 109.2326132526175,-7.427145635725026,0 109.23260494949,-7.427150647985002,0 109.2325966274975,-7.427155707660007,0 109.2325882902325,-7.427160813834973,0 109.23257994129,-7.427165964692506,0 109.2325715824675,-7.427171155667509,0 109.23256322005,-7.427176386764984,0 109.232554855835,-7.427181655245022,0 109.2325464916225,-7.427186959287496,0 109.232538134595,-7.427192297065005,0 109.2325297829575,-7.427197665844972,0 109.2325214438975,-7.427203063804997,0 109.2325131174125,-7.42720849003001,0 109.2325048079975,-7.4272139417875,0 109.2324965183425,-7.427219417250002,0 109.2324882511475,-7.427224914597501,0 109.2324800073075,-7.427230432917497,0 109.2324717985025,-7.427235964002477,0 109.23246362114,-7.427241513322485,0 109.2324554743175,-7.42724707540998,0 109.23244736343,-7.427252653909989,0 109.2324392893725,-7.42725824152751,0 109.23243125484,-7.427263840997512,0 109.23242326163,-7.427269449587527,0 109.2324153124375,-7.427275063647527,0 109.23240740906,-7.427280685002473,0 109.2323995541925,-7.427286310005002,0 109.23239174873,-7.427291937744997,0 109.2323839944725,-7.427297567305004,0 109.232376294115,-7.42730319778002,0 109.23236864945,-7.427308826430021,0 109.2323610604825,-7.427314454167514,0 109.2323535299075,-7.427320078259982,0 109.2323463730275,-7.427325460717498,0 109.2323392709475,-7.427330838619981,0 109.232332228155,-7.427336211047475,0 109.2323252446525,-7.427341576182527,0 109.2323183186425,-7.427346933112517,0 109.2323114564125,-7.427352280922491,0 109.2323046543675,-7.427357618705004,0 109.2322979179025,-7.427362946454991,0 109.232291246115,-7.427368262352502,0 109.232284639005,-7.427373566394975,0 109.2322780974725,-7.427378855850009,0 109.23227162601,-7.427384133452507,0 109.23226522192,-7.427389394639988,0 109.232258887,-7.427394642152478,0 109.23225262215,-7.42739987325001,0 109.2322464282675,-7.427405087025022,0 109.232240308045,-7.427410281649998,0 109.232234261485,-7.427415458952509,0 109.23222828589,-7.427420617104985,0 109.2322223857575,-7.427425756112484,0 109.2322165601825,-7.427430875967502,0 109.23221080827,-7.427435974854973,0 109.23220513361,-7.427441053680013,0 109.2321995344125,-7.427446110622498,0 109.2321940124675,-7.427451145679981,0 109.2321885686775,-7.427456158855023,0 109.2321832012425,-7.427461149235,0 109.2321779128625,-7.427466114995013,0 109.23217270443,-7.42747105796002,0 109.23216757505,-7.427475977217513,0 109.23216252562,-7.427480870032525,0 109.23215755524,-7.427485738230018,0 109.23215267649,-7.427490571775024,0 109.2321478785875,-7.427495379792504,0 109.232143161535,-7.427500161365003,0 109.2321385262275,-7.427504916497526,0 109.2321339726675,-7.427509644272505,0 109.232129500855,-7.427514345607507,0 109.232125112585,-7.427519018675014,0 109.23212080606,-7.427523664387479,0 109.23211658308,-7.427528281832507,0 109.23211244544,-7.427532870102482,0 109.2321083886475,-7.42753743010502,0 109.2321044171975,-7.427541960017492,0 109.2321005301875,-7.427546460750023,0 109.2320967276175,-7.427550933217502,0 109.2320930085925,-7.42755537377252,0 109.232089375805,-7.427559785147479,0 109.2320858283575,-7.427564166434991,0 109.2320823653525,-7.427568514894972,0 109.232078988585,-7.427572833265003,0 109.2320756971575,-7.427577120635021,0 109.23207249197,-7.42758137517751,0 109.23206937212,-7.427585600545002,0 109.23206633851,-7.427589793995026,0 109.232063392035,-7.427593953710017,0 109.2320605309025,-7.427598083334999,0 109.2320577578025,-7.427602178309996,0 109.2320550700425,-7.42760624228498,0 109.2320524685225,-7.427610272519985,0 109.2320498104075,-7.427614499709989,0 109.2320463366225,-7.427620226840021,0 109.23204308023,-7.427625815374995,0 109.23198645223,-7.427721497032507,0 109.231935602195,-7.427820034527485,0 109.2318905579725,-7.427921349445,0 109.231863719905,-7.427992585297488,0 109.231853689315,-7.42801870982248,0 109.23181840439,-7.428130733190016,0 109.231646845035,-7.428820237772527,0 109.231646775865,-7.428820516789983,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2316051730875,-7.428816998074979,0 109.23156250401,-7.428820265127513,0 109.2315209138075,-7.428830321597502,0 109.23148147597,-7.428846908527476,0 109.231445215475,-7.428869594627487,0 109.23141307016,-7.428897793597514,0 109.2313858727675,-7.428930774157493,0 109.2313643275725,-7.428967681934977,0 109.2313489924325,-7.429007561337528,0 109.2313402653,-7.429049380187507,0 109.2313383716525,-7.429092055242506,0 109.231342091575,-7.429123689057519,0 109.231343359995,-7.429134479549986,0 109.231355101875,-7.429175558012503,0 109.2313732936575,-7.429214221977475,0 109.23139746283,-7.429249473907475,0 109.231426984165,-7.429280399247489,0 109.2314610931975,-7.429306197417476,0 109.2314989059825,-7.429326198224999,0 109.2315394433575,-7.42933988740498,0 109.2315816560925,-7.429346908432478,0 109.2316242218625,-7.429347078029991,0 109.2316244509325,-7.4293470789425,0 109.231666718465,-7.429340394377506,0 109.2317073636375,-7.429327028894988,0 109.2317453345275,-7.429307329899984,0 109.23177965017,-7.429281804365019,0 109.231809417645,-7.429251116097475,0 109.2318338688875,-7.429216057475003,0 109.231852367895,-7.429177539402474,0 109.2318644376575,-7.42913655668002,0 109.231869765565,-7.429094172492512,0 109.231868214175,-7.429051484672526,0 109.231859821215,-7.429009595610012,0 109.2318578107875,-7.429004242309986,0 109.2318448049775,-7.428969595847491,0 109.2318235562275,-7.428932517559986,0 109.2317966238375,-7.428899321809979,0 109.2317647049,-7.428870867530009,0 109.23172862676,-7.428847893295029,0 109.2316893245675,-7.428830992697499,0 109.2316478143175,-7.42882060523749,0 109.231646775865,-7.428820516789983,0 109.2316051730875,-7.428816998074979,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2316242218625,-7.429347078029991,0 109.2316750961525,-7.429681400327524,0 109.231746673015,-7.430149030514997,0 109.231798102465,-7.430494887067481,0 109.231811650855,-7.430586002004986,0 109.231878948145,-7.430951810535022,0 109.23188780194,-7.431010285875004,0 109.231892939405,-7.431069201632511,0 109.23190761698,-7.431334068697481,0 109.2319088970775,-7.431402550462507,0 109.231905293935,-7.431468460890017,0 109.2318968731275,-7.431533932740023,0 109.2318831837025,-7.431601048619996,0 109.231810882795,-7.431899232325009,0 109.23177107126,-7.432062377335001,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.231982674815,-7.432382478039983,0 109.2319367574275,-7.432467416637509,0 109.23193671431,-7.432467484112522,0 109.231931250755,-7.432476177479998,0 109.2319299859275,-7.43247800751999,0 109.2319295996525,-7.432478553704982,0 109.2319206946525,-7.432491142402512,0 109.2319170906125,-7.432496234962514,0 109.2319131227525,-7.432501591952473,0 109.2319069881575,-7.432508992349995,0 109.2318993641575,-7.432517054735001,0 109.231885064775,-7.432531214512494,0 109.2318769260375,-7.432538761715022,0 109.2318694610375,-7.432544828107497,0 109.2318640648575,-7.432548743497478,0 109.231845088845,-7.432561893885008,0 109.231845121185,-7.43256194129998,0 109.231835032205,-7.432568147202517,0 109.2318258729825,-7.432572987187484,0 109.2318238652475,-7.432573939135012,0 109.2318035507475,-7.432583295404983,0 109.2317974395075,-7.432585951562487,0 109.231788419525,-7.432589299794983,0 109.23177777269,-7.432592475692502,0 109.2317583053,-7.432597600167526,0 109.2317474743125,-7.432600074869981,0 109.231738626805,-7.43260149732248,0 109.2317386312975,-7.432601531972523,0 109.23173133608,-7.432602300642487,0 109.2317083149525,-7.432604219129984,0 109.2317083203425,-7.432604275662527,0 109.23170308586,-7.432604425202499,0 109.23169646887,-7.432604615775007,0 109.23168611848,-7.432604236455005,0 109.231683904135,-7.432604057734977,0 109.23166162861,-7.432602022534979,0 109.2316577748375,-7.432601585769987,0 109.23165775777,-7.432601737132472,0 109.2316455074425,-7.432599668194995,0 109.23163469622,-7.43259710686749,0 109.2316152719475,-7.432591829207523,0 109.231604652065,-7.432588566685013,0 109.2315956554375,-7.432585145505016,0 109.2315895657575,-7.432582441934983,0 109.2315747660125,-7.432575481037475,0 109.23156932851,-7.432572924270005,0 109.231567332455,-7.432571959557492,0 109.23156221116,-7.432569199452472,0 109.2315582073675,-7.432567042977495,0 109.231549427235,-7.432561545567523,0 109.2315475964675,-7.432560284507474,0 109.2315378811875,-7.432553435764987,0 109.2315293103625,-7.432547393992479,0 109.2315239698775,-7.432543453070026,0 109.231517157055,-7.432537825267502,0 109.2315165533875,-7.432537327409989,0 109.2315084739375,-7.43252971364501,0 109.2314993012425,-7.432520484120005,0 109.2314942913375,-7.432515443532509,0 109.2314867302175,-7.432507320057482,0 109.2314806540125,-7.432499867685011,0 109.2314767301725,-7.432494481517494,0 109.23146355548,-7.432475540112478,0 109.23146350787,-7.432475572937506,0 109.23145728973,-7.432465501797481,0 109.2314524370325,-7.432456349780011,0 109.2314514821225,-7.432454342847507,0 109.231442117185,-7.432434084765021,0 109.231439457275,-7.432427984635012,0 109.2314361011675,-7.432418974862514,0 109.2314329184375,-7.432408348419983,0 109.2314277836675,-7.43238891371999,0 109.2314253043175,-7.432378104000009,0 109.2314237735875,-7.432368615519977,0 109.2314230746975,-7.432362002945013,0 109.2314212142875,-7.43233975799501,0 109.23142105259,-7.432337541340019,0 109.2314210480975,-7.432337344385019,0 109.2314207552475,-7.432327195742516,0 109.2314209654525,-7.432321514144974,0 109.2314211361325,-7.432316851969971,0 109.2314213157975,-7.432314637139996,0 109.231423353175,-7.432292409515014,0 109.231424105065,-7.432285803324987,0 109.231425710355,-7.432276327609998,0 109.2314282768425,-7.432265536129989,0 109.2314335661225,-7.432246144292492,0 109.2314368341925,-7.432235544297498,0 109.2314402630625,-7.432226559150024,0 109.2314429714825,-7.432220480907517,0 109.2314524999125,-7.432200294869972,0 109.2314534709925,-7.432198295230023,0 109.2314583955575,-7.432189186987501,0 109.23146390762,-7.43218041611749,0 109.2314651724475,-7.432178586992508,0 109.231478066865,-7.432160360472495,0 109.2314820302325,-7.432155010782481,0 109.2314881675225,-7.432147607654998,0 109.231495796015,-7.432139541630022,0 109.231510091805,-7.432125385510004,0 109.2315182323375,-7.432117835580016,0 109.231525698235,-7.432111769192488,0 109.231531089025,-7.432107856542472,0 109.2315494523875,-7.432095131080018,0 109.2315512939325,-7.432093882790014,0 109.23156012527,-7.432088451034985,0 109.231569288985,-7.432083609230007,0 109.231571299415,-7.432082655460022,0 109.231591598645,-7.432073306494999,0 109.231597709885,-7.432070651255002,0 109.2316067379525,-7.432067300289988,0 109.23161738299,-7.432064123482519,0 109.231636852175,-7.432058999014998,0 109.2316476840625,-7.432056524314987,0 109.2316571855425,-7.432054997005025,0 109.2316633416975,-7.432054348694976,0 109.231663828585,-7.432054297632477,0 109.231680464485,-7.432052911654978,0 109.2316815694125,-7.432052820472506,0 109.2316868407275,-7.432052380059986,0 109.231686836235,-7.432052324440008,0 109.2316935502425,-7.432052132042485,0 109.231698684115,-7.43205198523998,0 109.2317090479775,-7.432052364559979,0 109.23171126053,-7.432052542365,0 109.23173352707,-7.43205457665249,0 109.2317401539425,-7.432055327084981,0 109.231749643745,-7.432056930077522,0 109.23176045497,-7.432059492312477,0 109.2317675471675,-7.432061419914988,0 109.23177107126,-7.432062377335001,0 109.2317798837325,-7.43206477179251,0 109.2317905054125,-7.432068034310021,0 109.23179950204,-7.432071455485016,0 109.23180559172,-7.432074158142484,0 109.23182581639,-7.432083670322527,0 109.23182782143,-7.432084639595019,0 109.231836946515,-7.432089554344999,0 109.2318390342,-7.43209086190501,0 109.23184572665,-7.432095052662476,0 109.231847552925,-7.43209631189751,0 109.2318507455375,-7.432098561375028,0 109.2318658237575,-7.43210919054502,0 109.2318711884975,-7.432113149700001,0 109.23187860409,-7.432119274444972,0 109.2318866835375,-7.432126887289996,0 109.23189889254,-7.432139173252495,0 109.2319044234675,-7.432144979769987,0 109.231908424565,-7.432149279035002,0 109.231914503465,-7.432156731400027,0 109.231918421915,-7.432162113005006,0 109.231931598405,-7.432181056219974,0 109.2319316451175,-7.432181024307511,0 109.2319378650525,-7.432191098177497,0 109.2319427168525,-7.432200242895021,0 109.2319436654725,-7.432202239797505,0 109.231952334215,-7.432220989705002,0 109.2319530375975,-7.432222512457486,0 109.2319557011,-7.432228618967486,0 109.23195905631,-7.432237626000017,0 109.2319622408375,-7.432248251527483,0 109.2319673720125,-7.432267682572502,0 109.2319698522625,-7.432278492289981,0 109.2319783099,-7.432330233039977,0 109.231982674815,-7.432382478039983,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2315747660125,-7.432575481037475,0 109.2315736601875,-7.432577884617501,0 109.2314921470575,-7.432728833249996,0 109.2310239855575,-7.433503074845021,0 109.2307835586575,-7.433871663175013,0 109.23053683367,-7.434258379022481,0 109.230511203835,-7.434298597182475,0 109.2302916492925,-7.434643109230024,0 109.23005394878,-7.435016776492489,0 109.2298065967675,-7.435405934299979,0 109.22956458524,-7.435785404199977,0 109.22949423278,-7.435906628084979,0 109.2294936937925,-7.435907534449996,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.229377760815,-7.435879964207516,0 109.2293349129725,-7.435883244990008,0 109.2292931467025,-7.435893344472504,0 109.22925354537,-7.435909999139994,0 109.22921713216,-7.435932780424992,0 109.2291848521,-7.435961094727475,0 109.22915754062,-7.435994213492507,0 109.229135904695,-7.436031275032518,0 109.229120505775,-7.436071321014992,0 109.2291117409125,-7.436113315592479,0 109.22910983918,-7.436156167299998,0 109.229114848185,-7.436198770080011,0 109.2291266385725,-7.436240018787486,0 109.229144905815,-7.436278845665014,0 109.2291691764975,-7.436314244039977,0 109.2291988209025,-7.436345299347522,0 109.229233072765,-7.436371204604995,0 109.229271043655,-7.436391290527524,0 109.22931175081,-7.436405036455028,0 109.229324945265,-7.436407231242526,0 109.2293541405125,-7.43641208677002,0 109.22939711412,-7.436412258194991,0 109.2294395595175,-7.436405546170022,0 109.22948037537,-7.436392126680006,0 109.2295185061575,-7.436372344400013,0 109.229552964635,-7.436346712692511,0 109.2295828578725,-7.43631589628751,0 109.229607410625,-7.436280692132527,0 109.229625988685,-7.436242012972514,0 109.2296381087525,-7.436200859094981,0 109.22964345912,-7.436158298260011,0 109.22964190144,-7.436115431962491,0 109.229633474345,-7.436073369909991,0 109.2296183961225,-7.436033201742475,0 109.2295970575425,-7.435995967862483,0 109.2295700128625,-7.435962633904978,0 109.2295379609725,-7.435934060642522,0 109.2295017319175,-7.435910990304991,0 109.2294936937925,-7.435907534449996,0 109.2294622653325,-7.435894020142484,0 109.22942058081,-7.435883586927504,0 109.229377760815,-7.435879964207516,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.229324945265,-7.436407231242526,0 109.2293249255025,-7.436407611479979,0 109.2293129743175,-7.436631059682497,0 109.2293157788575,-7.436719850677491,0 109.229321645755,-7.436905600045009,0 109.2293341907275,-7.43699408745249,0 109.2293540282225,-7.437079680704983,0 109.229381221125,-7.43716323601751,0 109.2294155664125,-7.43724412422,0 109.2294568062725,-7.437321738029993,0 109.2295046271875,-7.437395492949975,0 109.22955867253,-7.437464833677496,0 109.229618533565,-7.437529239544971,0 109.229683762035,-7.43758822454248,0 109.22975386656,-7.437641344605025,0 109.2298283171325,-7.437688203075027,0 109.229901457065,-7.437725820977505,0 109.230012856245,-7.437782783542502,0 109.230118219645,-7.437843434502498,0 109.2302204326525,-7.437909236452526,0 109.23031924464,-7.437980023432488,0 109.2304144112625,-7.438055624937476,0 109.2305056971625,-7.438135851304992,0 109.2305928786625,-7.438220505579977,0 109.230675738365,-7.438309378042504,0 109.230754073255,-7.438402249852516,0 109.230827688395,-7.438498892142491,0 109.2308964032275,-7.438599065097492,0 109.23096004617,-7.438702521612527,0 109.2310181033875,-7.438808348939972,0 109.2310460122475,-7.438867481822514,0 109.2310693405975,-7.438927765457493,0 109.2310889993275,-7.438991885214989,0 109.23161875741,-7.440970397189972,0 109.2316312934,-7.441038137265025,0 109.231638585925,-7.441106743605019,0 109.231640573895,-7.441175706485012,0 109.2316371207725,-7.44124715050998,0 109.2315697650925,-7.442011018057486,0 109.2315350577825,-7.442355945417488,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Pemuda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.226932326525,-7.419032236252519,0 109.226929745665,-7.419030931464988,0 109.226917465695,-7.419024732130026,0 109.22641937592,-7.418773156305008,0 109.2261830884575,-7.418653811682475,0 109.22612852299,-7.418628532022524,0 109.2257328851775,-7.418445232890008,0 109.2256596643975,-7.418417149457525,0 109.225248401285,-7.41825940084999,0 109.2251505819375,-7.418221397054992,0 109.2251257156725,-7.418211736542502,0 109.2249470515425,-7.418142321270011,0 109.2247845382225,-7.418141673892478,0 109.224477618925,-7.418256321702472,0 109.2244618130675,-7.418262735300004,0 109.22441272373,-7.418282657204998,0 109.2235252403325,-7.418642808077494,0 109.22352508133,-7.418642872814985,0 109.22350982075,-7.418649065762509,0 109.223507589335,-7.418650105215022,0 109.2233990953075,-7.418700618945024,0 109.22332182492,-7.418737441997508,0 109.22324971805,-7.418771805930021,0 109.2228763997775,-7.418949715542511,0 109.22273958636,-7.419001797602504,0 109.22257884901,-7.419044215492477,0 109.2225253534375,-7.419062210795005,0 109.22248045474,-7.41907731386749,0 109.222420311635,-7.419134487439975,0 109.222343208335,-7.419237044104988,0 109.222297245135,-7.419344512667521,0 109.222272749875,-7.419475989909983,0 109.22226495609,-7.419626668830006,0 109.22228524544,-7.419944919787497,0 109.22230349741,-7.420174649460023,0 109.2223077320675,-7.420313415900011,0 109.22230139086,-7.420353918212527,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Sawangan - Underpass Soedirman</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Analisis RTRW, 2019; Survei Lapangan, 2018</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2252920764775,-7.430024293097516,0 109.22518988413,-7.429974930645016,0 109.22490418304,-7.429849575972526,0 109.22485847047,-7.429829518607505,0 109.22478238586,-7.429788731867519,0 109.224717970365,-7.42975420023498,0 109.2246000197725,-7.429686509267526,0 109.224481847295,-7.429618691569998,0 109.2243770237825,-7.429560763504981,0 109.2243213183525,-7.429539379449977,0 109.2242780438125,-7.429522767875028,0 109.22425737717,-7.429514831377504,0 109.2241932706975,-7.429482795419972,0 109.22413823541,-7.429455291222496,0 109.224101968625,-7.429434766112479,0 109.224022332975,-7.429389695670011,0 109.2239099708025,-7.429318218874981,0 109.2238014534175,-7.42924105323749,0 109.2236970682825,-7.429158404829991,0 109.22359709208,-7.429070487935008,0 109.2235017916075,-7.428977545102498,0 109.2234114201925,-7.428879816140011,0 109.2233473514475,-7.428802924122522,0 109.223326221275,-7.428777564567497,0 109.223246420335,-7.428671062112528,0 109.2231722275775,-7.428560596912519,0 109.22310384153,-7.428446455282484,0 109.22304144455,-7.428328945419992,0 109.222985203725,-7.42820838007998,0 109.22293526548,-7.428085077489982,0 109.2228917681575,-7.427959369555026,0 109.22285587597,-7.427835226337494,0 109.2228548231425,-7.427831588182529,0 109.222824530155,-7.427702077124991,0 109.22280097004,-7.42757117831502,0 109.2227842047825,-7.427439237337524,0 109.2227346078975,-7.42687953743001,0 109.22264728716,-7.425868890912511,0 109.2226437540875,-7.425793982605001,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Pahlawan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.22588184292,-7.42868288751248,0 109.225849963505,-7.428835517152493,0 109.225814376745,-7.429005908204999,0 109.2257182992325,-7.429301817025021,0 109.225676855455,-7.429429459307528,0 109.2255820463625,-7.429623750360008,0 109.2253163507525,-7.429990764449997,0 109.2253060731275,-7.430004961535018,0 109.2252920764775,-7.430024293097516,0 109.2252633627275,-7.430063958314975,0 109.22502843262,-7.430402926884994,0 109.2249954455825,-7.430450522270007,0 109.224980307175,-7.43047236501252,0 109.22497392105,-7.430481578995,0 109.224888551455,-7.430604754582474,0 109.224810920845,-7.430720967512514,0 109.224751909615,-7.430809305080004,0 109.2244359874,-7.431277233690025,0 109.2244155112025,-7.431307562835002,0 109.2242088744325,-7.431613619967492,0 109.224079392165,-7.431769531352472,0 109.2240278657,-7.431824925734986,0 109.2240190819725,-7.4318343686125,0 109.223956972455,-7.431901139867476,0 109.223740369775,-7.43207060839751,0 109.2237309778875,-7.432076705787495,0 109.223516899475,-7.432215716607516,0 109.2232830464475,-7.432357596082512,0 109.223255063925,-7.432374573402512,0 109.2231290886825,-7.43248776043248,0 109.2231231220725,-7.432493120157516,0 109.2230663198,-7.432544153355024,0 109.2228983186725,-7.432752053877493,0 109.2227895479625,-7.432953240699987,0 109.222692890135,-7.433156282272478,0 109.2225328229275,-7.433492518587514,0 109.2225292539225,-7.433500014742492,0 109.22248397973,-7.433595120457483,0 109.222135915795,-7.434294639832501,0 109.222069680315,-7.43442775725498,0 109.2220411623975,-7.434481656560024,0 109.222027864635,-7.434506789390014,0 109.2219127859575,-7.434724293325018,0 109.221750331925,-7.435031340292482,0 109.22164858155,-7.435218648197521,0 109.2216054085175,-7.435307238312476,0 109.221597480885,-7.435323506340012,0 109.2215068094325,-7.435509561507502,0 109.221336925435,-7.435858158587507,0 109.2212833705725,-7.435968052029978,0 109.2212357329125,-7.436056641379992,0 109.2212197096625,-7.436086440157511,0 109.2210465252575,-7.436408499607523,0 109.22102075798,-7.436456420240006,0 109.2209289690225,-7.436627113254985,0 109.22091218041,-7.436659663079979,0 109.2208377073775,-7.436804036915021,0 109.2205979919425,-7.437277813889978,0 109.2205843609075,-7.437304753225021,0 109.2205825481075,-7.437308334012528,0 109.22052175462,-7.437428490545018,0 109.21993485111,-7.43849770036752,0 109.21989967937,-7.438561775384983,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Jalan Kolektor Sekunder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAMOBJ</td>
+
+<td>Jalan Kolektor Sekunder</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>Jl. Jend. Gatot Subroto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SBDATA</td>
+
+<td>Keputusan Bupati Banyumas Nomor 620/302/Tahun 2016 Tentang Penetapan Ruas - Ruas Jalan Kabupaten; Perda Kab. Banyumas No.6 Tahun 2019 Tentang RDTR Kawasan Perkotaan Purwokerto Tahun 2019-2039</td>
+
+</tr>
+
+<tr>
+
+<td>GSB</td>
+
+<td>Paling sedikit 13 (tiga belas) meter diukur tegak lurus dari as jalan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						109.2439511602125,-7.42322408893,0 109.243936037075,-7.423220473605,0 109.243907829975,-7.423213729862482,0 109.243197027225,-7.423043814225025,0 109.24313437692,-7.423028781230016,0 109.2426368997975,-7.422909407215002,0 109.2424720544525,-7.422869850220025,0 109.2424695885775,-7.422869258455023,0 109.2416835501275,-7.422680639022474,0 109.2416508236025,-7.422672552195024,0 109.2408098055625,-7.422464719229993,0 109.2408003588775,-7.422462385000017,0 109.240769855685,-7.422454847085021,0 109.240504116955,-7.422389175957504,0 109.239350720555,-7.422118669142492,0 109.23902596341,-7.422032523437507,0 109.238630118085,-7.421927521582518,0 109.2386251414175,-7.421926201287476,0 109.2384427313125,-7.421877815352502,0 109.23769142263,-7.421694172972479,0 109.237580575915,-7.421667078649989,0 109.237185009965,-7.421570389817474,0 109.2366362534125,-7.421436929700008,0 109.2365499504675,-7.421415940845009,0 109.2361421880925,-7.421316771042485,0 109.2360734112775,-7.421300043970006,0 109.2351400607975,-7.421068412612499,0 109.2350375747025,-7.421042978724983,0 109.2350252821575,-7.421039927825008,0 109.233923090625,-7.42076639098002,0 109.233545068775,-7.420672575434992,0 109.232971217785,-7.420536086572497,0 109.232170563745,-7.420345649977492,0 109.2316610644675,-7.420224464917509,0 109.23150644195,-7.42018811405751,0 109.230194554885,-7.419879691247502,0 109.2298008439575,-7.419784364117504,0 109.2293394341925,-7.419672644627497,0 109.2291122718175,-7.419617642899993,0 109.2289374093575,-7.419575304284991,0 109.228396874185,-7.419443374760021,0 109.22831434686,-7.419423232147494,0 109.2279763701075,-7.419335378240021,0 109.2279557232275,-7.419330011377496,0 109.2277127352325,-7.419266849067526,0 109.22755373163,-7.419225516202515,0 109.22727740895,-7.419162818012524,0 109.22709249614,-7.419111484522489,0 109.22701446488,-7.419072877042482,0 109.226932326525,-7.419032236252519,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
